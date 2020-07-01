@@ -1,5 +1,7 @@
 # mycs231n
-Store my homework and study notes for Stanford cs231n class
+This is the respository where I store my home work for Stanford CS231n class. 
+The original repository was cloned from cs231n.github. you can find it here (http://cs231n.github.io/)
+After I finish the homework and add my own solutions, I uploaded my work files here.
 
 All the assignments here are based on the stanford cs231n class Spring 2018. 
 
